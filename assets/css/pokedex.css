@@ -146,6 +146,16 @@
     border-radius: 1rem;
 }
 
+.detailButton {
+    padding: .25rem .5rem;
+    margin: .25rem 0;
+    font-size: .650rem;
+    color: #000;
+    border-radius: 1rem;
+    width: 60px;
+    align-content: center;
+}
+
 @media screen and (min-width: 380px) {
     .pokemons {
         grid-template-columns: 1fr 1fr;
